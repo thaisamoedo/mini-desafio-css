@@ -1,0 +1,18 @@
+body {
+	font-weight: bold;
+	font-size: 40px;
+	}
+
+footer {
+	position: fixed;
+    width: 100%;
+    bottom: 0;
+    background-color: #ABCDEF;
+    text-align: center;
+}
+
+.redes-sociais{
+	text-align: right;
+}
+
+
